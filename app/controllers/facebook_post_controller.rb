@@ -1,0 +1,2 @@
+class FacebookPostController < ApplicationController
+end

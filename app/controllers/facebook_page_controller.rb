@@ -1,0 +1,2 @@
+class FacebookPageController < ApplicationController
+end
